@@ -14,7 +14,7 @@ body {
   color: var(--text-color);
   margin: 0;
   overflow-x: hidden;
-  font-family: cursive;
+  font-family: "Times New Roman", Times, serif;
 }
 
 main {
